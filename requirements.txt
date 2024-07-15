@@ -1,0 +1,4 @@
+Flask==2.0.1
+spotipy==2.19.0
+requests==2.25.1
+beautifulsoup4==4.9.3
